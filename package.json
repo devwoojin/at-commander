@@ -25,6 +25,6 @@
   },
   "homepage": "https://github.com/tschiemer/at-commander#readme",
   "dependencies": {
-    "serialport": "5.0.0"
+    "serialport": "9.0.0"
   }
 }
