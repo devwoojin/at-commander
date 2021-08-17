@@ -1,5 +1,5 @@
 {
-  "name": "at-commander",
+  "name": "at-commander2",
   "version": "1.0.0",
   "description": "AT Command handler for serial ports",
   "main": "index.js",
