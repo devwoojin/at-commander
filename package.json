@@ -1,6 +1,6 @@
 {
   "name": "at-commander",
-  "version": "1.0.0-beta.7",
+  "version": "1.0.0",
   "description": "AT Command handler for serial ports",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/tschiemer/at-commander.git"
+    "url": "https://github.com/devwoojin/at-commander2"
   },
   "keywords": [
     "at command",
@@ -21,10 +21,10 @@
   "author": "Philip Tschiemer",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/tschiemer/at-commander/issues"
+    "url": "https://github.com/devwoojin/at-commander2"
   },
-  "homepage": "https://github.com/tschiemer/at-commander#readme",
+  "homepage": "https://github.com/devwoojin/at-commander2",
   "dependencies": {
-    "serialport": "9.0.0"
+    "serialport": "^9.2.0"
   }
 }
